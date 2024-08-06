@@ -1,0 +1,11 @@
+{
+	"folders": [],
+	"settings": {
+		"workbench.colorCustomizations": {
+			"activityBar.background": "#5C023D",
+			"titleBar.activeBackground": "#810355",
+			"titleBar.activeForeground": "#FFFAFD"
+		},
+		"liveServer.settings.multiRootWorkspaceName": "11.0+Bootstrap+Intro"
+	}
+}
